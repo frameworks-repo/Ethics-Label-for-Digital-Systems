@@ -1,5 +1,7 @@
 # Ethics Label for Digital Systems
-This repository is the replication package for the work titled: “**Ethics Label for Digital Systems to Promote Transparency and User Awareness**“ by *Marco Autili, Riccardo Corsi, Martina De Sanctis, Paola Inverardi, and Patrizio Pelliccione*, from the University of L’Aquila, and Gran Sasso Science Institute (GSSI)--L'Aquila, Italy. This work is currently under review for the Journal of Systems & Software, special issue on Quality Assurance in ICT-based Systems.
+This repository is the replication package for the work titled: “**Ethics Label for Digital Systems to Promote Transparency and User Awareness**“ by *Marco Autili, Riccardo Corsi, Martina De Sanctis, Paola Inverardi, and Patrizio Pelliccione*, from the University of L’Aquila, and Gran Sasso Science Institute (GSSI)--L'Aquila, Italy. 
+
+This work is currently under review for the *Journal of Systems & Software*, <ins>special issue on Quality Assurance in ICT-based Systems</ins>.
 
 ## Repository structure
 The repository contains the files about the validation of the proposed “Ethics Label" performed through semi-structured interviews with both academic and industry experts. The files are organized as follows:
